@@ -51,6 +51,6 @@ Thank you for using our social media app “Buffet”. This Privacy Policy expla
 
         8. Contact Us
 
-        If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us at sean.emery.dev@gmail.com.
+        If you have any questions, concerns, or requests regarding this Privacy Policy or our privacy practices, please contact us at info@buffetapp.co.
 
         By using our App, you consent to the collection, use, disclosure, and protection of your personal information as described in this Privacy Policy.
