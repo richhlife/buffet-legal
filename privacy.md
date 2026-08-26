@@ -28,6 +28,8 @@ By using the Service, you agree to this Policy. If you don't agree, don't use th
 
 **Device and technical information.** Device type, operating system, app version, language, region, identifiers assigned to your device or account, and similar technical data collected automatically when you use the Service.
 
+**Crash and diagnostic information.** When the app crashes or misbehaves, we automatically receive a report describing what happened — where in the app it failed, the device model and operating system, the app version, and technical details about the state of the app at that moment. These reports are tied to a random identifier for your installation of the app, not to your name or your account, and we use them only to find and fix problems.
+
 **Sensitive information.** Some of what we collect may be considered sensitive, including your precise location, your date of birth, and preferences that could indicate sexual orientation. We collect it only because matching cannot work without it, we use it only to provide and improve the Service, and we do not use it to infer characteristics about you or to target advertising.
 
 ### The website
@@ -48,6 +50,7 @@ We use information to operate, provide, maintain, personalize, and improve the S
 - Communicating with you about your account, the Service, and — where you've opted in or where permitted — marketing
 - Investigating and responding to reports, abuse, fraud, and safety concerns
 - Analyzing usage to understand what works and to develop new features
+- Diagnosing crashes and errors, and keeping the Service stable
 - Complying with law, enforcing our Terms, and protecting the rights, property, and safety of our users, the public, and Buffet
 
 Where required by law, we rely on your consent for location, push notifications, and marketing; on the necessity of performing our contract with you for core Service functions; and on our legitimate interests in operating, securing, and improving the Service.
@@ -60,7 +63,7 @@ Where required by law, we rely on your consent for location, push notifications,
 
 **With other members.** Your profile and the content you post are visible to other members of the Service. If you share location, other members may see your approximate distance from them — never your exact coordinates. Anything you share with another member may be copied, saved, or repeated by them. We do not control and are not responsible for what other members do with information you make available to them.
 
-**With service providers.** We share information with vendors who perform services for us, including cloud hosting and databases, authentication, file storage, push notifications, analytics, subscription management, artificial-intelligence processing, email delivery, and customer support. They may use the information only to provide services to us.
+**With service providers.** We share information with vendors who perform services for us, including cloud hosting and databases, authentication, file storage, push notifications, analytics, crash reporting, subscription management, artificial-intelligence processing, email delivery, and customer support. They may use the information only to provide services to us.
 
 **For legal and safety reasons.** We may disclose information where we believe it is reasonably necessary to comply with any applicable law, regulation, legal process, or governmental request; to enforce our Terms; to detect, prevent, or address fraud, security, or technical issues; or to protect the rights, property, or safety of our users, the public, or Buffet.
 
