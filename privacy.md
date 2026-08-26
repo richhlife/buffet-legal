@@ -6,247 +6,137 @@
 
 **Last updated: August 26, 2026**
 
-Buffet seats small groups of people at real events and helps them talk before, during, and after. Doing that means holding a certain amount of information about you — who you are, what you're into, where you are, and who you've been matched with.
+This Privacy Policy explains how Buffet Co, Inc. ("Buffet," "we," "us," or "our") collects, uses, shares, and protects information when you use the Buffet mobile application, joinbuffet.com, and related services (together, the "Service").
 
-This policy says exactly what we collect, why, who else touches it, and what you can make us delete. It covers the Buffet iOS app and the website at joinbuffet.com (together, the "Service"). It's written to be read, not to be survived.
+Buffet seats small groups of people at real-world events and helps them connect before, during, and after. Providing that service necessarily involves collecting information about you and showing some of it to other people.
 
-If anything here is unclear, email **info@buffetapp.co** and ask.
-
----
-
-## 1. What We Collect
-
-### 1.1 What you give us when you sign up
-
-**Phone number.** Most people sign in to Buffet with a phone number, verified by a code. Your number is your login credential and is stored with your account.
-
-**Email address and password**, if you sign up that way instead.
-
-**Apple or Google account details**, if you use Sign in with Apple or Google Sign-In. We receive a unique identifier and, depending on what you agree to share, your name and email address. If you use Apple's Hide My Email, we only ever see the relay address.
-
-### 1.2 Your profile
-
-Onboarding and the profile editor ask for:
-
-- **Name** and **date of birth** (we display your age, not your birthday)
-- **Gender**
-- **Height**
-- **The city you chose to join in**
-- **Up to six photos**
-- **Interests and hobbies**, and the kinds of places you like
-- **Answers to three profile prompts**, and to the five "This or That" questions
-- **A short bio**, and optionally your **occupation** and **school**
-- **What you're looking for** — friendship, dating, or either — and your preferences for who you'd like to be matched with
-
-You choose what to fill in. Some of it gates what you can see: parts of other people's profiles stay blurred until you've filled in the same field yourself.
-
-### 1.3 Sensitive information
-
-Two things on that list deserve their own paragraph.
-
-**What you're looking for**, combined with **who you'd like to meet**, can reveal your sexual orientation. **Your date of birth** and **precise location** are sensitive in their own right.
-
-We collect these because matching cannot work without them. We use them to build your feed, form tables, and show distance. We do not use them to target advertising, we do not sell them, and we do not disclose them to anyone outside the service providers listed in Section 4.
-
-### 1.4 What you create in the app
-
-- **Messages** in event group chats and one-to-one threads, including reactions and votes on proposed plans
-- **Likes and comments** you leave on other people's profile prompts
-- **Invites** you send and receive
-- **RSVPs**, check-ins, and whether you actually showed up
-- **Ratings and reviews** you leave after an event, including reviews of whether other people turned up
-- **Reports and blocks** — when you report someone we record who you reported, the reason, and anything you wrote
-- **Feedback** you submit
-
-### 1.5 Location
-
-If you grant location permission, the app records your **precise coordinates** and the **city** they resolve to, and updates them as you move.
-
-We use this to show how far away other members are and to keep your city current. We ask for "While Using the App" only — Buffet never asks for background location access.
-
-Location is optional. If you decline, the app works; distances just don't appear. You can revoke it at any time in iOS Settings, and we stop recording new positions. Your last stored coordinates remain on your profile until your account is deleted — email us if you want them cleared sooner.
-
-Resolving coordinates to a city name is done by Apple's geocoding service on your device's behalf, under Apple's privacy policy.
-
-### 1.6 Device and usage information
-
-The app records how it's used: screens viewed, events RSVP'd to, paywalls seen, purchases started and finished, onboarding steps completed, invites sent, sign-ins and sign-outs. These events carry your Buffet user ID, plus standard device and app information collected by our analytics providers — device model, OS version, app version, language, region, and general session data.
-
-**Push token.** If you allow notifications, Apple issues a token that lets us deliver them. It's stored on your account and removed when it stops working.
-
-**Camera and photo library.** The app asks for camera access for profile and check-in photos. Photo library access uses Apple's system picker, so we only ever receive the specific images you pick.
-
-### 1.7 What we don't collect
-
-- No advertising identifier (IDFA), no App Tracking Transparency prompt, no cross-app or cross-site tracking. The app's privacy manifest declares tracking as **false**, and it's accurate.
-- No contacts, no calendar, no microphone, no health data, no background location.
-- No card numbers. Subscriptions are billed by Apple; we never see your payment details.
-
-### 1.8 The website
-
-joinbuffet.com is a static site. **It sets no cookies, runs no analytics, and embeds no tracking pixels or social widgets.** Fonts are served from our own domain rather than Google's, so no third party learns you visited.
-
-The only information it collects is what you type into a form. Newsletter signups collect your email address. Contact form submissions collect your name, email address, and message. Your IP address is used momentarily to rate-limit abuse and is not stored as a record of your visit. Standard server logs are kept by our host.
+By using the Service, you agree to this Policy. If you don't agree, don't use the Service.
 
 ---
 
-## 2. Why We Use It
+## 1. Information We Collect
 
-**To match you and seat you.** Your profile, preferences, interests, and location build your feed, form the tables you're placed at, and show distance and compatibility.
+**Account and profile information.** Information you provide when you create an account and build your profile — which may include your name, phone number, email address, date of birth, gender, photos, city, interests, preferences about who you'd like to meet, written answers and prompts, and other details you choose to add. Some of this is required to use the Service; the rest is optional.
 
-**To keep your account yours.** Your phone number, email address, and Apple or Google identifiers sign you in.
+**Authentication information.** If you sign in through Apple, Google, or a phone number, we receive the identifiers and account details those providers share with us.
 
-**To run the conversation.** Your messages and event participation power group chats, invites, and plans.
+**Content you create.** Messages, photos, comments, likes, invitations, ratings, reviews, reports, feedback, and anything else you post, send, or submit through the Service.
 
-**To hold people to showing up.** Check-ins, no-shows, and peer reviews set your reliability standing, which affects your access to events.
+**Activity information.** How you use the Service — events you RSVP to, whether you attend, features you use, purchases you make, and similar activity. We use this to operate the Service and to understand and improve it.
 
-**To keep Buffet safe.** Reports, blocks, and the content they concern let us investigate abuse and suspend or remove people.
+**Location information.** If you grant permission, we collect your device's location to show distances between members and to keep your city current. Location is optional and you can turn it off at any time in your device settings.
 
-**To give you what you paid for.** Purchase and subscription status unlocks Buffet+ features.
+**Device and technical information.** Device type, operating system, app version, language, region, identifiers assigned to your device or account, and similar technical data collected automatically when you use the Service.
 
-**To improve the product.** Usage events tell us what works, what's broken, and what to build next.
+**Sensitive information.** Some of what we collect may be considered sensitive, including your precise location, your date of birth, and preferences that could indicate sexual orientation. We collect it only because matching cannot work without it, we use it only to provide and improve the Service, and we do not use it to infer characteristics about you or to target advertising.
 
-**To reach you.** Your email address carries service and account messages, and the newsletter only if you opted in.
+### The website
 
-**To meet our obligations.** We use whatever we must to comply with law, respond to lawful requests, and protect our users, the public, and ourselves.
-
-We rely on the necessity of running the Service for most of this, on your consent for location, push notifications, and marketing email, and on our legitimate interest in keeping the Service safe and working for security and analytics.
+joinbuffet.com is a static site. It does not set cookies, run analytics, or embed advertising or social-media trackers. The only information it collects is what you enter into a form, such as an email address for our newsletter or a message sent through our contact form. Our hosting provider keeps standard server logs.
 
 ---
 
-## 3. Buffet's Buddy and Automated Decisions
+## 2. How We Use Information
 
-**Buffet's Buddy** writes the one-line reason you're being shown a particular person, and the opening message that seeds a new chat. To do that, a background service sends **profile attributes for the two people involved** — interests, prompt answers, This-or-That answers, city, and what each of you is looking for — to **Anthropic**, which generates the line. The result is cached against that pair.
+We use information to operate, provide, maintain, personalize, and improve the Service. This includes, but is not limited to:
 
-**Your messages are never sent.** Nothing from a group chat or a one-to-one thread is included.
+- Creating and securing your account
+- Building your feed, matching members, forming groups, and showing distance
+- Operating chats, invitations, events, and RSVPs
+- Maintaining reliability standing, which may affect access to events and features
+- Providing paid features and processing subscriptions
+- Communicating with you about your account, the Service, and — where you've opted in or where permitted — marketing
+- Investigating and responding to reports, abuse, fraud, and safety concerns
+- Analyzing usage to understand what works and to develop new features
+- Complying with law, enforcing our Terms, and protecting the rights, property, and safety of our users, the public, and Buffet
 
-Anthropic processes this as our service provider and does not use it to train models. If you'd rather not have Buddy lines generated for you, email us and we'll turn it off for your account.
+Where required by law, we rely on your consent for location, push notifications, and marketing; on the necessity of performing our contract with you for core Service functions; and on our legitimate interests in operating, securing, and improving the Service.
 
-Elsewhere, some things happen automatically without a person reviewing them: your compatibility percentage, which tables you're placed at, and your reliability score. **Reliability has real consequences** — it starts at 80, rises when you attend and review, falls when you cancel late or don't show, and below certain thresholds you can be waitlisted or suspended from booking for a period. If you think your score is wrong, email us and a human will look at it.
-
----
-
-## 4. Who Else Sees Your Information
-
-### 4.1 Other members
-
-This is the part people most often overlook, so plainly:
-
-- **Your profile** — photos, name, age, city, interests, prompts, bio, occupation, school, and what you're looking for — is visible to other Buffet members.
-- **Your approximate distance** from another member is shown to them if you've shared location. Your exact coordinates are never displayed.
-- **Anything you write in a group chat** is visible to everyone at that table, and stays in the chat.
-- **Anything you send in a one-to-one thread** is visible to that person.
-- **Blocking** hides you from that person's feed. It doesn't retract what you've already sent.
-
-Assume anything on your profile or in a chat may be screenshotted or repeated. We can't control what other members do with what they see, and we're not responsible for it.
-
-### 4.2 Service providers
-
-We use these companies to run Buffet. Each gets only what its job needs, and none of them may use your information for their own purposes.
-
-- **Google (Firebase)** runs our accounts, database, photo storage, backend functions, push delivery, and analytics. It holds effectively all account and profile data, your messages, your photos, and your usage events.
-- **Apple** provides Sign in with Apple, App Store billing, push delivery, and geocoding. It receives sign-in identifiers, purchase records, push tokens, and the coordinates sent for geocoding.
-- **Amplitude** provides product analytics. It receives usage events, your Buffet user ID, and device and session data.
-- **RevenueCat** manages subscriptions and purchases. It receives your Buffet user ID and subscription status.
-- **Anthropic** powers Buffet's Buddy (Section 3). It receives profile attributes for a pair of members — never messages.
-- **Mailchimp** sends the newsletter, only if you opted in. It receives your email address, first name, and tags such as your subscription tier.
-- **Resend** delivers website form submissions to our inbox. It receives what you typed into the form.
-- **Vercel** hosts joinbuffet.com. It keeps standard web server logs.
-
-Our infrastructure runs in the United States.
-
-### 4.3 Everyone else
-
-- **Legal.** We'll disclose information when the law requires it, and to protect the safety of our users or the public.
-- **A sale of the company.** If Buffet is acquired or merges, your information transfers with the business. We'll tell you before it becomes subject to a different policy.
-- **Aggregated statistics.** We may publish or share numbers that can't identify you.
-
-**We do not sell your personal information, and we do not share it for cross-context behavioral advertising.** We never have.
+**Automated processing.** Certain features operate automatically without human review, including matching, compatibility scoring, group formation, and reliability standing. Some features use third-party artificial-intelligence service providers to generate suggestions and conversation prompts from profile information; the content of your private messages is not used for this purpose. If a decision affects you and you'd like a person to review it, email us.
 
 ---
 
-## 5. Keeping and Deleting Your Information
+## 3. How Information Is Shared
 
-We keep your information while your account exists, and afterwards only as described here.
+**With other members.** Your profile and the content you post are visible to other members of the Service. If you share location, other members may see your approximate distance from them — never your exact coordinates. Anything you share with another member may be copied, saved, or repeated by them. We do not control and are not responsible for what other members do with information you make available to them.
 
-### 5.1 Deleting your account
+**With service providers.** We share information with vendors who perform services for us, including cloud hosting and databases, authentication, file storage, push notifications, analytics, subscription management, artificial-intelligence processing, email delivery, and customer support. They may use the information only to provide services to us.
 
-Profile → menu → **Account → Delete Account**. This removes:
+**For legal and safety reasons.** We may disclose information where we believe it is reasonably necessary to comply with any applicable law, regulation, legal process, or governmental request; to enforce our Terms; to detect, prevent, or address fraud, security, or technical issues; or to protect the rights, property, or safety of our users, the public, or Buffet.
 
-- Your profile and everything on it
-- Your photos
-- Your RSVPs, and it returns your seat to the event
-- Your one-to-one message threads, in full
-- Your invites, prompt likes and comments, event ratings, reliability reviews, ballot votes, and waitlist entries
-- You, from every group chat you're in
-- Your login, so you can no longer sign in
+**In a business transaction.** If Buffet is involved in a merger, acquisition, financing, reorganization, bankruptcy, or sale of assets, information may be transferred as part of that transaction.
 
-### 5.2 What survives, and why
+**In aggregate or de-identified form.** We may create and use aggregated or de-identified information, which does not identify you, for any purpose.
 
-Being straight with you about the limits:
+**We do not sell your personal information, and we do not share it for cross-context behavioral advertising.**
 
-- **Messages you sent in a group chat stay in that chat.** The chat still belongs to the other people at the table, and their conversation would be full of holes without them. Your name and profile no longer resolve.
-- **Reports filed about you are kept**, so someone can't erase an abuse history by deleting and re-registering.
-- **Analytics events already recorded** with your user ID remain in our analytics providers for their retention periods. They are behavioural records, not your profile.
-- **Purchase records** are held by Apple and RevenueCat under their own policies and tax requirements.
-- **Newsletter.** Deleting your account does not remove you from the Mailchimp list. Use the unsubscribe link, or ask us.
-- **Records from earlier versions** of the app, including old match and swipe history stored under your account, may not be removed automatically.
-- **Backups** roll off on their normal schedule.
-- We keep what we must to comply with law or resolve a dispute.
-
-**If you want all of it gone, email info@buffetapp.co and say so.** We'll do the parts the button doesn't.
-
-Deleting your account does **not** cancel a Buffet+ subscription. Cancel that in your Apple ID settings.
+Our service providers and infrastructure are located primarily in the United States, and information we collect may be transferred to, stored in, and processed there or in other countries.
 
 ---
 
-## 6. Your Rights
+## 4. Retention and Deletion
 
-Wherever you live, you can ask us to:
+We keep information for as long as your account is active and for as long as reasonably necessary for the purposes described in this Policy, including to comply with our legal obligations, resolve disputes, enforce our agreements, and protect the safety of the Service.
 
-- **Tell you** what we hold about you
-- **Give you a copy** in a portable format
-- **Correct** anything wrong — most of it you can edit yourself in the app
-- **Delete** your account and information
-- **Stop** marketing email, push notifications, or location collection
+You can delete your account at any time in the app (Profile → menu → Account → Delete Account). Deleting your account removes your profile and the information associated with it from the Service.
 
-Email **info@buffetapp.co**. We'll verify it's really you, usually through the phone number or email on the account, and respond within the time the law allows — 45 days in California, 30 days under GDPR. Exercising these rights costs nothing and we won't treat you differently for it.
+Some information may remain after deletion. This includes, without limitation, content you shared with other members that remains part of their experience, records we retain for safety and abuse-prevention purposes, information held by third-party providers under their own retention practices, and copies in backups and archives, which are overwritten on a routine schedule.
 
-**California.** Over the past twelve months we collected the categories described in Section 1 — identifiers, personal records, protected characteristics such as age and gender, commercial information, geolocation, internet activity, and inferences — for the purposes in Section 2, and disclosed them to the service providers in Section 4. We did not sell or share personal information. You have the rights to know, delete, correct, and to opt out of sale or sharing, which for us is already the default. We collect **sensitive personal information** as described in Section 1.3, and use it only to provide the Service — not to infer characteristics about you — so the right to limit its use doesn't add anything here. You may use an authorised agent.
+Deleting your account does not cancel a paid subscription. Subscriptions are billed by Apple and must be cancelled through your Apple ID settings.
 
-**EEA and UK.** Our legal bases are in Section 2. You may object to processing based on legitimate interests, withdraw consent at any time without affecting what came before, and complain to your data protection authority. Your information is processed in the United States under standard contractual clauses where required.
-
-**Nevada.** We don't sell personal information as Nevada defines it.
+If you want us to delete information that deletion does not reach, email **info@buffetapp.co** and we will do so where we are able and not otherwise required to keep it.
 
 ---
 
-## 7. Security
+## 5. Your Rights and Choices
 
-Access to your data is controlled by server-side security rules, tested against a suite that checks that one member cannot read another's private data. Traffic is encrypted in transit and data is encrypted at rest by our infrastructure providers. Access to production systems is limited to the people who need it.
+Depending on where you live, you may have the right to request access to, a copy of, correction of, or deletion of your personal information, and to object to or restrict certain processing.
 
-No system is perfectly secure, and we won't pretend otherwise. If a breach affects you, we'll notify you and the relevant regulators as required by law.
+You can update most of your information directly in the app. To make any other request, email **info@buffetapp.co**. We will verify your identity — usually through the phone number or email address on your account — and respond within the time required by applicable law. Exercising these rights is free, and we will not discriminate against you for doing so.
 
----
+**In-app controls.** You can turn off location and push notifications in your device settings, and unsubscribe from marketing email using the link in any such email. We may still send you messages about your account and the Service.
 
-## 8. Age
+**California residents.** In the past twelve months we collected the categories of information described in Section 1 — including identifiers, personal and commercial information, protected characteristics, geolocation, internet and app activity, and inferences — for the purposes described in Section 2, and disclosed them to the categories of recipients described in Section 3. We did not sell personal information or share it for cross-context behavioral advertising. You have the right to know, delete, correct, and opt out, and you may designate an authorized agent. We use sensitive personal information only to provide and improve the Service, and not for purposes that would trigger the right to limit its use.
 
-**Buffet is for people 18 and over.** You must be 18 to create an account, the app won't accept a date of birth under 18, and we don't knowingly collect information from anyone younger.
+**EEA and UK residents.** Our legal bases are described in Section 2. You may withdraw consent at any time without affecting processing that already happened, object to processing based on legitimate interests, and lodge a complaint with your local supervisory authority. Where we transfer information internationally, we rely on appropriate safeguards such as standard contractual clauses.
 
-If we learn that someone under 18 has an account, we delete it and the information with it. If you believe a minor is using Buffet, email **info@buffetapp.co** and we'll act quickly.
-
----
-
-## 9. Changes
-
-We'll update this policy as the Service changes. The **Last updated** date at the top always reflects the current version.
-
-If we make a material change — a new category of information, a genuinely new purpose, a new recipient — we'll tell you in the app or by email before it takes effect. Small clarifications we'll just publish.
+**Nevada residents.** We do not sell personal information as defined by Nevada law.
 
 ---
 
-## 10. Contact
+## 6. Security
 
-Questions, requests, or complaints:
+We use commercially reasonable administrative, technical, and physical safeguards designed to protect information, including access controls, encryption in transit, and encryption at rest through our infrastructure providers.
+
+No method of transmission or storage is completely secure, and we cannot guarantee absolute security. You are responsible for keeping your account credentials and your device secure.
+
+---
+
+## 7. Children
+
+**The Service is for adults 18 and over.** You must be 18 to create an account, and we do not knowingly collect personal information from anyone under 18.
+
+If we learn that we have collected information from someone under 18, we will delete it. If you believe a minor is using the Service, email **info@buffetapp.co**.
+
+---
+
+## 8. Third-Party Services
+
+The Service may link to or interoperate with websites, applications, and services we do not control, including the App Store, sign-in providers, and venues and partners associated with our events. This Policy does not apply to them, and we are not responsible for their privacy practices. Review their policies before providing information to them.
+
+---
+
+## 9. Changes to This Policy
+
+We may update this Policy from time to time to reflect changes in our practices, the Service, or the law. The **Last updated** date above indicates when it was last revised.
+
+If we make material changes, we will provide notice through the Service or by other appropriate means before those changes take effect. Your continued use of the Service after an update means you accept the revised Policy.
+
+---
+
+## 10. Contact Us
+
+Questions, requests, or complaints about this Policy or our privacy practices:
 
 **Buffet Co, Inc.**
 **info@buffetapp.co**
