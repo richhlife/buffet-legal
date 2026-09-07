@@ -6,7 +6,7 @@
 
 **Last updated: September 7, 2026**
 
-These SMS Terms & Conditions ("SMS Terms") govern Buffet's text-message program (the "Program"). They are part of our [Terms of Service](https://joinbuffet.com/terms/) and should be read alongside our [Privacy Policy](https://joinbuffet.com/privacy/).
+These SMS Terms & Conditions ("SMS Terms") govern Buffet's text-message program (the "Program"). They are part of our [Terms of Service](/terms/) and should be read alongside our [Privacy Policy](/privacy/).
 
 By providing your mobile number and opting in, you agree to these SMS Terms.
 
@@ -82,7 +82,7 @@ If you give up, change, or transfer the number you enrolled, you agree to opt ou
 
 ## 11. Privacy
 
-Our [Privacy Policy](https://joinbuffet.com/privacy/) describes how we handle your information generally, and applies to the Program.
+Our [Privacy Policy](/privacy/) describes how we handle your information generally, and applies to the Program.
 
 For the avoidance of doubt: **mobile information and SMS opt-in consent are not shared with, sold to, rented to, or bought by any third party or affiliate for marketing or promotional purposes.** Your mobile number and your consent to receive texts are used only to run the Program described here.
 
