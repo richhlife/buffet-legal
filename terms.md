@@ -111,7 +111,7 @@ These Terms are between you and Buffet Co, Inc., not Apple. Apple has no obligat
 
 ## 15. Contact
 
-Questions about these Terms? Email us at **info@buffetapp.co**.
+Questions about these Terms? Email us at **info@joinbuffet.com**.
 
 ---
 
