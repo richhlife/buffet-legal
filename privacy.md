@@ -87,7 +87,7 @@ Some information may remain after deletion. This includes, without limitation, c
 
 Deleting your account does not cancel a paid subscription. Subscriptions are billed by Apple and must be cancelled through your Apple ID settings.
 
-If you want us to delete information that deletion does not reach, email **info@buffetapp.co** and we will do so where we are able and not otherwise required to keep it.
+If you want us to delete information that deletion does not reach, email **info@joinbuffet.com** and we will do so where we are able and not otherwise required to keep it.
 
 ---
 
@@ -95,7 +95,7 @@ If you want us to delete information that deletion does not reach, email **info@
 
 Depending on where you live, you may have the right to request access to, a copy of, correction of, or deletion of your personal information, and to object to or restrict certain processing.
 
-You can update most of your information directly in the app. To make any other request, email **info@buffetapp.co**. We will verify your identity — usually through the phone number or email address on your account — and respond within the time required by applicable law. Exercising these rights is free, and we will not discriminate against you for doing so.
+You can update most of your information directly in the app. To make any other request, email **info@joinbuffet.com**. We will verify your identity — usually through the phone number or email address on your account — and respond within the time required by applicable law. Exercising these rights is free, and we will not discriminate against you for doing so.
 
 **In-app controls.** You can turn off location and push notifications in your device settings, and unsubscribe from marketing email using the link in any such email. We may still send you messages about your account and the Service.
 
@@ -119,7 +119,7 @@ No method of transmission or storage is completely secure, and we cannot guarant
 
 **The Service is for adults 18 and over.** You must be 18 to create an account, and we do not knowingly collect personal information from anyone under 18.
 
-If we learn that we have collected information from someone under 18, we will delete it. If you believe a minor is using the Service, email **info@buffetapp.co**.
+If we learn that we have collected information from someone under 18, we will delete it. If you believe a minor is using the Service, email **info@joinbuffet.com**.
 
 ---
 
@@ -142,7 +142,7 @@ If we make material changes, we will provide notice through the Service or by ot
 Questions, requests, or complaints about this Policy or our privacy practices:
 
 **Buffet Co, Inc.**
-**info@buffetapp.co**
+**info@joinbuffet.com**
 
 ---
 
