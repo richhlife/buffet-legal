@@ -66,7 +66,7 @@ Opting out of texts does not close your Buffet account, cancel a subscription, o
 
 **Reply HELP to any message from us**, and you will receive a reply with our contact information.
 
-You can also reach us any time at **info@buffetapp.co**.
+You can also reach us any time at **info@joinbuffet.com**.
 
 ## 9. Carriers
 
@@ -78,7 +78,7 @@ Delivery of text messages depends on your mobile carrier's network and is not gu
 
 You are responsible for keeping the mobile number on your account current.
 
-If you give up, change, or transfer the number you enrolled, you agree to opt out of the Program or notify us at **info@buffetapp.co** before doing so. Otherwise, the person who receives that number next may receive messages intended for you.
+If you give up, change, or transfer the number you enrolled, you agree to opt out of the Program or notify us at **info@joinbuffet.com** before doing so. Otherwise, the person who receives that number next may receive messages intended for you.
 
 ## 11. Privacy
 
@@ -97,7 +97,7 @@ We may update these SMS Terms from time to time to reflect changes in the Progra
 Questions about the Program or these SMS Terms:
 
 **Buffet Co, Inc.**
-**info@buffetapp.co**
+**info@joinbuffet.com**
 
 ---
 
