@@ -4,7 +4,7 @@
 
 **Effective date: August 26, 2026**
 
-**Last updated: August 26, 2026**
+**Last updated: October 6, 2026**
 
 This Privacy Policy explains how Buffet Co, Inc. ("Buffet," "we," "us," or "our") collects, uses, shares, and protects information when you use the Buffet mobile application, joinbuffet.com, and related services (together, the "Service").
 
@@ -30,11 +30,13 @@ By using the Service, you agree to this Policy. If you don't agree, don't use th
 
 **Crash and diagnostic information.** When the app crashes or misbehaves, we automatically receive a report describing what happened — where in the app it failed, the device model and operating system, the app version, and technical details about the state of the app at that moment. These reports are tied to a random identifier for your installation of the app, not to your name or your account, and we use them only to find and fix problems.
 
+**Advertising measurement.** When we advertise the app on Facebook and Instagram, the app uses Meta's software development kit to tell Meta that the app was installed and opened, and when a new member finishes setting up their account. This is how we learn which of our ads bring people to Buffet. The app does not access your device's advertising identifier and does not ask for permission to track you; Meta receives these events together with basic device and app information, and attribution to an ad is aggregated through Apple's SKAdNetwork. We do not send Meta your name, phone number, email address, profile, messages, or location.
+
 **Sensitive information.** Some of what we collect may be considered sensitive, including your precise location, your date of birth, and preferences that could indicate sexual orientation. We collect it only because matching cannot work without it, we use it only to provide and improve the Service, and we do not use it to infer characteristics about you or to target advertising.
 
 ### The website
 
-joinbuffet.com is a static site. It does not set cookies, run analytics, or embed advertising or social-media trackers. The only information it collects is what you enter into a form, such as an email address for our newsletter or a message sent through our contact form. Our hosting provider keeps standard server logs.
+joinbuffet.com uses Google Analytics and Amplitude to understand how visitors use the site, and the Meta Pixel to measure the effectiveness of our ads on Facebook and Instagram — for example, whether a visit that began with one of our ads led to a tap on the App Store button or a newsletter signup. These tools use cookies or similar technologies and receive information such as the pages you view, the link or ad that brought you to the site, and your browser and device type. Otherwise, the only information the site collects is what you enter into a form, such as an email address for our newsletter or a message sent through our contact form. Our hosting provider keeps standard server logs.
 
 ---
 
@@ -64,6 +66,8 @@ Where required by law, we rely on your consent for location, push notifications,
 **With other members.** Your profile and the content you post are visible to other members of the Service. If you share location, other members may see your approximate distance from them — never your exact coordinates. Anything you share with another member may be copied, saved, or repeated by them. We do not control and are not responsible for what other members do with information you make available to them.
 
 **With service providers.** We share information with vendors who perform services for us, including cloud hosting and databases, authentication, file storage, push notifications, analytics, crash reporting, subscription management, artificial-intelligence processing, email delivery, and customer support. They may use the information only to provide services to us.
+
+**With advertising platforms, for measurement.** As described in Section 1, the app and joinbuffet.com send Meta Platforms information about installs, app opens, completed account setup, and site visits so we can measure how well our ads perform. Meta's use of that information is also governed by Meta's own privacy policy.
 
 **For legal and safety reasons.** We may disclose information where we believe it is reasonably necessary to comply with any applicable law, regulation, legal process, or governmental request; to enforce our Terms; to detect, prevent, or address fraud, security, or technical issues; or to protect the rights, property, or safety of our users, the public, or Buffet.
 
